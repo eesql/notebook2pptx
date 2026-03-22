@@ -1,0 +1,2 @@
+# notebook2pptx
+基于AI 多模态重排与矢量化闭环方案实现pdf无损转换为可编辑的pptx文件
